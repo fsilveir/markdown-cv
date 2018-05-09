@@ -23,7 +23,7 @@
 ---
 #### IBM Brazil - IT Specialist
 ##### Assigned to Global Offshore Accounts &emsp; <small>*July/2011 - Jan/2015*</small>
-`Automation`, `Monitoring`, `Red-Hat`, `SUSE`, `AIX`, `Bash`, `Tivoli Monitoring`, `ITM5`, `ITM6`, `ITCAM RRT`, `BMC Patrol`, `BMC PractiveNet`
+`Automation`, `Monitoring`, `Red-Hat`, `SUSE`, `AIX`, `Bash`, `Tivoli Monitoring`, `ITM5`, `ITM6`, `ITCAM RRT`, `BMC Patrol`, `BMC ProactiveNet`
 > Assigned as a Subject Matter Expert for Enterprise Automation team being responsible for developping infrastruction automations and supporting  monitoring infrastructure using ITM5, ITM6 and BlueCARE. supporting Global Accounts such as the following:
 > 
 > - Whirlpool
