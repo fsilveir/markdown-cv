@@ -24,7 +24,7 @@
 #### IBM Brazil - IT Specialist
 ##### Assigned to Global Offshore Accounts &emsp; <small>*July/2011 - Jan/2015*</small>
 `Automation`, `Monitoring`, `Red-Hat`, `SUSE`, `AIX`, `Bash`, `Tivoli Monitoring`, `ITM5`, `ITM6`, `ITCAM RRT`, `BMC Patrol`, `BMC ProactiveNet`
-> Assigned as a Subject Matter Expert for Enterprise Automation team being responsible for developing infrastruction automations and supporting  monitoring infrastructure using ITM5, ITM6 and BlueCARE. supporting Global Accounts such as the following:
+> Assigned as a Subject Matter Expert for Enterprise Automation team being responsible for developing automations and supporting  monitoring infrastructure using ITM5, ITM6 and BlueCARE. supporting Global Accounts such as the following:
 > 
 > - Whirlpool
 > - Honda Motor Company
@@ -55,10 +55,9 @@
 ##### Assigned to Carrefour Brazil &emsp; <small>*Aug/2006 - Oct/2007*</small>
 `IT Infrastructure`, `Outsourcing`, `Configuration Management`, `Pre-Sales`, `Project Management`, `Knowledge Management`
 > 
-> Specialist in IT infrastructure solutions, part of the Technology & Solutions team. Responsible for helping on pre-sales and on implementations of IT infrastructure projects on BearingPoint Brazil.
-> 
-> Acted as part of the Knowledge Management team at VALE. Responsible for managing new demands and the generation of the Key Performance Indicators for mining assets fuel supply.
-> 
+> Specialist in IT infrastructure solutions, part of the Brazilian Automation service line at IBM Brazil. Helping to support non IBM solutions on Brazil and on off shore accounts.
+>
+> Responsible for development and delivery of new solutions focusing automation of manual tasks and operations for cost reduction and revenue assurance.
 
 ---
 #### EDS - Infrastructure Specialist
