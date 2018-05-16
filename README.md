@@ -18,13 +18,13 @@
 #### IBM Brazil - IT Specialist
 ##### Assigned to Michelin North America &emsp; <small>*Jan/2015 - Nov/2017*</small>
 `IT Infrastructure`, `Automation`, `Monitoring`, `Red-Hat`, `SUSE`, `AIX`, `Bash`, `Python`, `Tivoli Monitoring`, `ITM6`, `BMC Patrol`
-> Was assigned as a Subject Matter Expert for Enterprise Automation team on Michelin North America, being responsible for developping new monitors and supporting the monitoring infrastructure using ITM6 and BlueCARE.
+> Was assigned as a Subject Matter Expert for Enterprise Automation team on Michelin North America, being responsible for developing new monitors and supporting the monitoring infrastructure using ITM6 and BlueCARE.
 
 ---
 #### IBM Brazil - IT Specialist
 ##### Assigned to Global Offshore Accounts &emsp; <small>*July/2011 - Jan/2015*</small>
 `Automation`, `Monitoring`, `Red-Hat`, `SUSE`, `AIX`, `Bash`, `Tivoli Monitoring`, `ITM5`, `ITM6`, `ITCAM RRT`, `BMC Patrol`, `BMC ProactiveNet`
-> Assigned as a Subject Matter Expert for Enterprise Automation team being responsible for developping infrastruction automations and supporting  monitoring infrastructure using ITM5, ITM6 and BlueCARE. supporting Global Accounts such as the following:
+> Assigned as a Subject Matter Expert for Enterprise Automation team being responsible for developing infrastruction automations and supporting  monitoring infrastructure using ITM5, ITM6 and BlueCARE. supporting Global Accounts such as the following:
 > 
 > - Whirlpool
 > - Honda Motor Company
