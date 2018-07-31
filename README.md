@@ -82,7 +82,7 @@ AIX, Solaris, Red-Hat, SUSE, Ubuntu, Windows, AWS, IBM Cloud/Bluemix
 Bash, Python, VBScript, Git, Chef, Docker, Selenium IDE
 
 **Tools**: 
-ITM5, ITM6, ITCAM, BMC Patrol, BMC Patrol Perform & Predict, Graylog, Elasticsearch, Grafana
+ITM5, ITM6, ITCAM, IBM APM (IPM8), BMC Patrol, BMC Patrol Perform & Predict, Graylog, Elasticsearch, Grafana
 
 **Best Practices/Frameworks:** 
 ITIL, Agile, Scrum, Common Sense :-)
@@ -99,6 +99,7 @@ ITIL, Agile, Scrum, Common Sense :-)
 - **IBM Manager’s Choice Award** &emsp; <small>*June 2016*</small>
 - **IBMer’s Essential Award** &emsp; <small>*April 2017*</small>
 - **IBM Technical Specialist Profession Certification L1 [(Acclaim badge)](https://www.youracclaim.com/badges/80aed25a-14c8-4e44-a3ca-8c85d2cd3ff6)** &emsp; <small>*February 2018*</small>
+- **IBM Technical Specialist Profession Certification L2 [(Acclaim badge)](https://www.youracclaim.com/badges/91a40f5f-c0c9-438f-86b9-d795d2e25053)** &emsp; <small>*June 2018*</small>
 
 
 ---
