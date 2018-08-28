@@ -78,8 +78,8 @@
 **Operating Systems/ Platforms:** 
 AIX, Solaris, Red-Hat, SUSE, Ubuntu, Windows, AWS, IBM Cloud/Bluemix
 
-**Programming / Scripting / Automation:**
-Bash, Python, VBScript, Git, Chef, Docker, Selenium IDE
+**Programming / Scripting / Automation / Containers:**
+Bash, Python, VBScript, Git, Chef, Docker, Kubernetes, Selenium IDE
 
 **Tools**: 
 ITM5, ITM6, ITCAM, IBM APM (IPM8), BMC Patrol, BMC Patrol Perform & Predict, Graylog, Elasticsearch, Grafana
