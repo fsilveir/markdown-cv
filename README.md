@@ -14,7 +14,7 @@
 `IT Infrastructure`, `Automation`, `Monitoring`, `APM`, `Linux`, `Kubernetes`, `Docker`, `Jenkins`, `UrbanCode Deploy`, `Bash`, `Python`, `GoLang`, `Ansible`, `Chef`, `Prometheus`, `Grafana`, `ELK`, `Tivoli Monitoring`, `ITM6`, `IPM8`, `Scrum`, `Agile`, `Git`
 > Currently part of the M&EaaS (Monitoring & Event Automation as a Service) DevOps team -- The M&EaaS Portal provides integrated monitoring services to multiple IBM customers from Europe.
 
-I'm currently responsible for the deployment and availability of the solution, supporting both Development and Ops teams by automating and developing better ways to do things and on-boarding / enabling new customers.
+> I'm currently responsible for the deployment and availability of the solution, supporting both Development and Ops teams by automating and developing better ways to do things and on-boarding / enabling new customers.
 
 ---
 #### IBM Brazil - Lead System Engineer (LSE)
